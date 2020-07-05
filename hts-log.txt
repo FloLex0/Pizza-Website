@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 16 May 2019 02:10:00 at http://max-themes.net//demos/albertos/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ro, en, *" http://max-themes.net//demos/albertos/ -O1 "C:\Siturile Mele\pizza" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:12:27	Warning: 	Retry after error -4 (Incorrect length (322049 Bytes, 562788 expected)) at link max-themes.net//demos/albertos/upload/slide4.jpg (from max-themes.net//demos/albertos/)
+02:12:49	Warning: 	Retry after error -4 (Incorrect length (335641 Bytes, 544972 expected)) at link max-themes.net//demos/albertos/upload/bg-pizza.jpg (from max-themes.net//demos/albertos/)
+02:12:55	Warning: 	Retry after error -4 (Incorrect length (241678 Bytes, 493248 expected)) at link max-themes.net//demos/albertos/upload/slide5.jpg (from max-themes.net//demos/albertos/)
+02:13:06	Warning: 	File not parsed, looks like binary: max-themes.net//demos/albertos/rs-slider/css/openhand.cur
+02:13:06	Warning: 	File not parsed, looks like binary: max-themes.net//demos/albertos/rs-slider/css/closedhand.cur
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.3.1.5 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/animsition.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/font-awesome.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/simple-line-icons.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/pe-icon-7-stroke.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/flaticon.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/owl.carousel.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/jquery.easy-pie-chart.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/owl.transitions.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/style.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/media.css?ver=1.0 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-includes/js/jquery/jquery.js?ver=1.12.4 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.3.1.5 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/images/logo.png (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:27	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/images/logo-retina.png (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/css/custom_script.css?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/js/modernizr.custom.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/js/jquery.animsition.min.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/js/superfish.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/js/waypoints.min.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/js/jquery.mobilemenu.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/js/custom.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-content/themes/albertos/js/custom-inline-js.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+02:13:43	Error: 	"Not Found" (404) at link pegodesign.com/wp-themes/albertos/wp-includes/js/wp-embed.min.js?ver=4.7.3 (from max-themes.net//demos/albertos/css/owl.video.play.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 43 seconds : 133 links scanned, 100 files written (6133636 bytes overall) [6202985 bytes received at 27816 bytes/sec], 3.3 requests per connection
+(29 errors, 5 warnings, 0 messages)
